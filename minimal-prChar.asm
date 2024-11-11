@@ -1,4 +1,6 @@
 ; minimal.asm - A minimal x86 program to run directly from the BIOS
+; prints a single character on screen in 16-bit real mode
+
 section .text
     global _start
 _start:
