@@ -1,0 +1,6 @@
+# Ignore virtual disk images
+*.vdi
+*.img
+
+# Ignore binary files
+*.bin
